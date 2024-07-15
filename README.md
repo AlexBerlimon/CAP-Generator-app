@@ -1,3 +1,3 @@
-# YT summarizer bot
+# CAP AI helper
 
-Summarizes youtube videos. Available for use at: https://poe.com/YouTubeSummarizer
+https://poe.com/CDS_Generator
